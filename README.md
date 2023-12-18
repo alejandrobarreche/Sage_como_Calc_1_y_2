@@ -20,6 +20,16 @@ Estos archivos muestran ejemplos de como podemos hacer distintos ejemplos de _op
 
 * Determina si 3 divide 234878
 
+* Calcula el floor y el ceiling de -3.56
+
+* Calcula el logaritmo en base e de 100, calcula el logaritmo en base 10 de 100, después calcula el cociente. ¿Cual deberia ser el resultado?
+
+* Calcula el logaritmo en base 2 de 64.
+
+* Compara $e^iπ$ con una aproximación numérica, usando pi.n().
+
+* Calcula sin (π/2), cot (π/4) i csc (π/16).
+
 * Calcula la lista de divisores de cada uno de los siguientes números enteros: 134, 491, 422 y 1002
 
 * De los enteros del ejercicio anterior, ¿cuáles son números primos?
